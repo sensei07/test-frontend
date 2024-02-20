@@ -7,7 +7,7 @@ import { NO_INDEX_PAGE } from '@/constants/seo.constants'
 import { BoardsList } from './ui/BoardsList'
 
 export const metadata: Metadata = {
-	title: 'Time blocking',
+	title: 'Boards',
 	...NO_INDEX_PAGE
 }
 
